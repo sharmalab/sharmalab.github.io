@@ -1,5 +1,0 @@
-site_name: Project Bindaas
-pages:
-- Home: index.md
-- Administration: adminGuide.md
-theme: readthedocs
